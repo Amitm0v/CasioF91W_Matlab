@@ -39,11 +39,11 @@ The Casio F91W Simulator is a MATLAB application that replicates the basic funct
 1. Ensure MATLAB is installed on your system (compatible with R2019b or later).
 2. Clone this repository:
    ```bash
-   git clone https://github.com//casio_f91w_sim.git
+   git clone [https://github.com//casio_f91w_sim.git](https://github.com/Amitm0v/CasioF91W_Matlab)
    ```
 3. Navigate to the project directory:
    ```bash
-   cd casio_f91w_sim
+   cd CasioF91W_Matlab
    ```
 4. Open `casio_f91w_sim.m` in MATLAB and run it.
 
