@@ -76,22 +76,4 @@ To contribute:
 
 ---
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
 
---- 
-
-**Note:** Replace placeholder links (e.g., screenshots) with actual images or URLs once available.
-
-Citations:
-[1] https://everhour.com/blog/github-readme-template/
-[2] https://dev.to/sumonta056/github-readme-template-for-personal-projects-3lka
-[3] https://www.mathworks.com/matlabcentral/fileexchange/85840-project-template-for-matlab
-[4] https://dev.to/mfts/how-to-write-a-perfect-readme-for-your-github-project-59f2
-[5] https://www.mathworks.com/help/matlab/matlab_env/open-github-repositories-in-matlab-online.html
-[6] https://github.com/othneildrew/Best-README-Template
-[7] https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/
-[8] https://gist.github.com/ramantehlan/602ad8525699486e097092e4158c5bf1
-
----
-Answer from Perplexity: pplx.ai/share
