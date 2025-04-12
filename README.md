@@ -58,22 +58,3 @@ The Casio F91W Simulator is a MATLAB application that replicates the basic funct
 
 ---
 
-## Screenshots
-![Clock Display Screenshot](https://viaCaption: Clock and Date Display*
-
-![Stopwatch Screenshot](https://via.placehold: Stopwatch Functionality*
-
----
-
-## Contributing
-Contributions are welcome!  
-To contribute:
-1. Fork this repository.
-2. Create a new branch for your feature (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m "Add feature"`).
-4. Push to your branch (`git push origin feature-name`).
-5. Submit a pull request.
-
----
-
-
