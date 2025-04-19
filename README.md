@@ -7,10 +7,8 @@ A MATLAB-based simulation of the classic Casio F91W digital watch, featuring fun
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 
 ---
 
