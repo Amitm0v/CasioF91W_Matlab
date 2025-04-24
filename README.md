@@ -34,7 +34,7 @@ The Casio F91W Simulator is a MATLAB application that replicates the basic funct
    ```bash
    cd CasioF91W_Matlab
    ```
-4. Open `casio_f91w_sim.m` in MATLAB and run it
+4. Open `casio_f91w_sim.m` in MATLAB and run it.
 
 ---
 
