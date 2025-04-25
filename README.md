@@ -46,4 +46,3 @@ The Casio F91W Simulator is a MATLAB application that replicates the basic funct
    - **Light:** Toggle the backlight simulation.
 
 ---
-
