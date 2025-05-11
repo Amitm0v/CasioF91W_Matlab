@@ -9,7 +9,6 @@ A MATLAB-based simulation of the classic Casio F91W digital watch, featuring fun
 - [Installation](#installation)
 - [Usage](#usage)
 ---
-
 ## Introduction
 The Casio F91W Simulator is a MATLAB application that replicates the basic functionalities of the Casio F91W digital watch. It is designed as an educational project to demonstrate GUI programming in MATLAB. The simulator includes features like displaying current time and date, stopwatch functionality, and a simulated backlight.
 ---
@@ -18,9 +17,7 @@ The Casio F91W Simulator is a MATLAB application that replicates the basic funct
 - **Date Display:** Displays the current date in DD-MMM-YYYY format.
 - **Stopwatch:** Includes start/stop and reset functionalities.
 - **Backlight Simulation:** Toggles the background color to simulate turning on/off the backlight.
-
 ---
-
 ## Installation
 1. Ensure MATLAB is installed on your system (compatible with R2019b or later).
 2. Clone this repository:
