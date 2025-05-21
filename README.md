@@ -30,7 +30,6 @@ The Casio F91W Simulator is a MATLAB application that replicates the basic funct
    ```
 4. Open `casio_f91w_sim.m` in MATLAB and run it.
 ---
-
 ## Usage
 1. Launch the simulator by running `casio_f91w_sim.m` in MATLAB.
 2. Use the buttons on the interface:
