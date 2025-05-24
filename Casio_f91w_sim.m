@@ -62,6 +62,7 @@ function casio_f91w_sim()
             stop(swTimer);
         end
     end
+    
 
     % Reset stopwatch
     function resetStopwatch(~, ~)
