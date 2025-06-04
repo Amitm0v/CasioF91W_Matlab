@@ -40,5 +40,4 @@ The Casio F91W Simulator is a MATLAB application that replicates the basic funct
    - **Start/Stop:** Start or stop the stopwatch.
    - **Reset:** Reset the stopwatch to 00:00.0.
    - **Light:** Toggle the backlight simulation.
-
 ---
